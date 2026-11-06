@@ -5,16 +5,14 @@ GitHub Pages 純靜態網站，無建置步驟、JavaScript、外部字型或分
 ## 頁面
 
 - `index.html`：服務資訊首頁。
-- `privacy.html`：隱私權政策草稿。
-- `terms.html`：使用條款草稿。
+- `privacy.html`：隱私權政策。
+- `terms.html`：使用條款。
 - `style.css`：共用響應式樣式。
 - `.nojekyll`：以靜態檔案直接發布。
 
 ## 發布狀態
 
-目前為未生效草稿，含 `〔…〕` 待補欄位與 `noindex, nofollow` 標記。禁止將草稿網址填入正式 App Store 政策欄位。
-
-正式發布前，需確認營運主體、廣告 SDK 與資料處理、客服郵件處理資訊及生效日期，核對首發 App 行為後，移除草稿提示與 robots 標記。`noindex` 只是搜尋引擎提示，無法限制公開頁面存取。
+2026-11-06 起為正式內容：最後更新日期與生效日期為 2026-11-06，已移除草稿提示、`〔…〕` 欄位與 `noindex, nofollow`。
 
 文案來源：App repository 的 `docs/product/privacy_policy.md` 與 `docs/product/terms_of_service.md`。修改文案時同步兩邊內容。
 
